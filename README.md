@@ -4,6 +4,7 @@
 </div>
 <h3 align="center">A passionate problem solver using technology to solve real-life challenges.</h3>
 <img href="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<ul>
 - 🔭 I’m currently working on [Map Memorialization](https://github.com/racoolstudio/Nigeria-Map-Memorization-Game)
 
 - 🌱 I’m currently learning **React, Node.js**
@@ -19,6 +20,7 @@
 - 📄 Know about my experiences [https://racoolstudio.github.io/myCV/assets/Ridwan-Resume.pdf](https://racoolstudio.github.io/myCV/assets/Ridwan-Resume.pdf)
 
 - ⚡ Fun fact **I love coding ❤️**
+  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
