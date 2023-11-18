@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridwan Abdulwaheed</h1>
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<div ><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=racoolstudio&show_icons=true&locale=en&layout=compact" alt="racoolstudio" /></p>
 
 
