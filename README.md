@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridwan Abdulwaheed</h1>
 <h3 align="center">A passionate problem solver using technology to solve real-life challenges.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=racoolstudio" alt="racoolstudio" /></a> </p>
-
+<img href="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 - 🔭 I’m currently working on [Map Memorialization](https://github.com/racoolstudio/Nigeria-Map-Memorization-Game)
 
 - 🌱 I’m currently learning **React, Node.js**
