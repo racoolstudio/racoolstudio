@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ridwan Abdulwaheed</h1>
-<h3 align="center">A passionate problem solver using technology to solve real-life challenges.</h3><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-
+</div>
+<h3 align="center">A passionate problem solver using technology to solve real-life challenges.</h3>
 <img href="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 - 🔭 I’m currently working on [Map Memorialization](https://github.com/racoolstudio/Nigeria-Map-Memorization-Game)
 
