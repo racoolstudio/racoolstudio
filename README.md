@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Map Memorialization](https://github.com/racoolstudio/Nigeria-Map-Memorization-Game)
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **React, Node.js**, Aws, Docker, CI/CD
 
 - 👯 I’m looking to collaborate on [Memorial University Eastern Edge Robotics](https://www.easternedgerobotics.com/)
 
