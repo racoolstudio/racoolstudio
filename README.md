@@ -3,15 +3,9 @@
 </div>
 <h3 align="center">A passionate problem solver using technology to solve real-life challenges.</h3>
 
-- 🔭 I’m currently working on [Map Memorialization](https://github.com/racoolstudio/Nigeria-Map-Memorization-Game)
-
-- 🌱 I’m currently learning **React, Node.js, Aws, Docker, CI/CD**
-
-- 👯 I’m looking to collaborate on [Memorial University Eastern Edge Robotics](https://www.easternedgerobotics.com/)
-
 - 👨‍💻 All of my projects are available at [https://bit.ly/racool](https://bit.ly/racool)
 
-- 💬 Ask me about **Python, Django, Html, CSS, JavaScript, Laravel, PowerBi, Microsoft Packages, Java and Flutter**
+- 💬 Ask me about **Python, Django, Html, CSS, JavaScript, Laravel, PowerBi, DevOps, Microsoft Packages, Java and Flutter**
 
 - 📫 How to reach me **aabdulwaheed@mun or +1-709-725-0935**
 
