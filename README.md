@@ -2,7 +2,7 @@
 <div align= "center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 </div>
 <h3 align="center">A passionate problem solver using technology to solve real-life challenges.</h3>
-
+<iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
 - 👨‍💻 All of my projects are available at [https://bit.ly/racool](https://bit.ly/racool)
 
 - 💬 Ask me about **Python, Django, Html, CSS, JavaScript, Laravel, PowerBi, DevOps, Microsoft Packages, Java and Flutter**
