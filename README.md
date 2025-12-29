@@ -112,7 +112,7 @@ Graduation: **Spring 2026**
 ## 📬 Contact
 📧 aabdulwaheed@mun.ca  
 📞 +1 (709) 725-0935  
-🌐 https://racoolstudio.github.io  
+🌐 https://racoolhub.com/ceo  
 💼 https://linkedin.com/in/r-py  
 
 ---
