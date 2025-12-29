@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Ridwan Abdulwaheed | DevOps & Cloud Engineer</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=DevOps+%26+Cloud+Engineer;Production+Systems+%7C+CI%2FCD+%7C+Kubernetes;Award-Winning+Engineer+%7C+Most+Innovative+2024;Spring+2026+Graduate+%7C+Available+Full-Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+%26+Developer;DevOps+%26+Cloud+Engineer;Production+Systems+%7C+CI%2FCD+%7C+Kubernetes;Award-Winning+Engineer+%7C+Most+Innovative+2024;Spring+2026+Graduate+%7C+Available+Full-Time" />
 </div>
 
 <div align="center">
@@ -41,6 +41,18 @@ Open to relocation | Canada & Global
 - Owned VM provisioning, secure deployments, and monitoring
 
 🏆 *Awarded “Most Innovative Employee 2024”*
+
+### Teskisite — Back-End Developer (Feb 2023 – Apr 2024, Remote USA)
+- Built REST APIs using Django.
+- Developed authentication middleware and optimized SQLite schemas.
+
+### Work Global Canada — IT Specialist / Software Developer (Apr 2022 – Apr 2023)
+- Built web apps using PHP / Laravel, JavaScript, HTML, CSS.
+- Developed internal REST APIs and managed MySQL databases.
+
+### Boram Foods Ltd — Junior Data Analyst (Jun 2019 – Jan 2021)
+- Analyzed business data with Python (Pandas).
+- Built Power BI dashboards for executives.
 
 ---
 
