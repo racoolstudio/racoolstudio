@@ -80,17 +80,6 @@ Grafana, Prometheus, SonarQube, Structured Logging
 
 ---
 
-## 📊 GitHub Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=racoolstudio&show_icons=true&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoolstudio&layout=compact&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=racoolstudio&theme=radical&hide_border=true"/>
-</div>
-
----
-
 ## 🎓 Education
 **Memorial University of Newfoundland**  
 BSc (Honors) Computer Science  
