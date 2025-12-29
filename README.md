@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Ridwan Abdulwaheed | DevOps & Cloud Engineer</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+%26+Developer;DevOps+%26+Cloud+Engineer;Production+Systems+%7C+CI%2FCD+%7C+Kubernetes;Award-Winning+Engineer+%7C+Most+Innovative+2024;Spring+2026+Graduate+%7C+Available+Full-Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Software Developer;DevOps+%26+Cloud+Engineer;Production+Systems+%7C+CI%2FCD+%7C+Kubernetes;Award-Winning+Engineer+%7C+Most+Innovative+2024;Spring+2026+Graduate+%7C+Available+Full-Time" />
 </div>
 
 <div align="center">
